@@ -1,0 +1,40 @@
+table {
+    
+    width: 50%;
+    border-collapse: collapse;
+    margin: 20px auto; 
+    margin-bottom: 20px;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+th {
+    background-color: #A1D6B2;
+}
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 24px;
+}
+
+
+
+p{
+    text-align: center; 
+}
+
+button{
+    background:#A1D6B2;
+    width: 100px; 
+    height:40px;
+    cursor:pointer ;
+    position: fixed; 
+    bottom: 90px; 
+    right: 70px;
+}
+
+button:hover {
+    background: #8ABF8F;
+}
